@@ -1,3 +1,3 @@
-# Various way to make an Input mandatory for your component
+# Various ways to make an Input mandatory in Angular
 
-> Demo code for [the "Various way to make an Input mandatory for your component" article](https://dev.to/pbouillon/various-way-to-make-an-input-mandatory-for-your-component-36gm) on [DEV](https://dev.to)
+> Demo code for [the "Various way to make an Input mandatory in Angular" article](https://dev.to/this-is-angular/various-ways-to-make-an-input-mandatory-in-angular-2jko) on [DEV](https://dev.to)
